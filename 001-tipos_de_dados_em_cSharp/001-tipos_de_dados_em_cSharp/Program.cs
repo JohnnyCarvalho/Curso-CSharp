@@ -1,13 +1,13 @@
 ﻿using System;
 
-namespace First_project
+namespace _001_tipos_de_dados_em_cSharp
 {
     class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("My name is Johnny and my years old is 31");
+            
         }
     }
 }
