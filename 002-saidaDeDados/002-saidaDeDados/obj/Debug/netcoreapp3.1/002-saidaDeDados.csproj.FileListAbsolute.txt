@@ -1,0 +1,14 @@
+C:\Users\jhonn\Projects\Curso-CSharp\002-saidaDeDados\002-saidaDeDados\bin\Debug\netcoreapp3.1\002-saidaDeDados.exe
+C:\Users\jhonn\Projects\Curso-CSharp\002-saidaDeDados\002-saidaDeDados\bin\Debug\netcoreapp3.1\002-saidaDeDados.deps.json
+C:\Users\jhonn\Projects\Curso-CSharp\002-saidaDeDados\002-saidaDeDados\bin\Debug\netcoreapp3.1\002-saidaDeDados.runtimeconfig.json
+C:\Users\jhonn\Projects\Curso-CSharp\002-saidaDeDados\002-saidaDeDados\bin\Debug\netcoreapp3.1\002-saidaDeDados.runtimeconfig.dev.json
+C:\Users\jhonn\Projects\Curso-CSharp\002-saidaDeDados\002-saidaDeDados\bin\Debug\netcoreapp3.1\002-saidaDeDados.dll
+C:\Users\jhonn\Projects\Curso-CSharp\002-saidaDeDados\002-saidaDeDados\bin\Debug\netcoreapp3.1\002-saidaDeDados.pdb
+C:\Users\jhonn\Projects\Curso-CSharp\002-saidaDeDados\002-saidaDeDados\obj\Debug\netcoreapp3.1\002-saidaDeDados.csproj.AssemblyReference.cache
+C:\Users\jhonn\Projects\Curso-CSharp\002-saidaDeDados\002-saidaDeDados\obj\Debug\netcoreapp3.1\002-saidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhonn\Projects\Curso-CSharp\002-saidaDeDados\002-saidaDeDados\obj\Debug\netcoreapp3.1\002-saidaDeDados.AssemblyInfoInputs.cache
+C:\Users\jhonn\Projects\Curso-CSharp\002-saidaDeDados\002-saidaDeDados\obj\Debug\netcoreapp3.1\002-saidaDeDados.AssemblyInfo.cs
+C:\Users\jhonn\Projects\Curso-CSharp\002-saidaDeDados\002-saidaDeDados\obj\Debug\netcoreapp3.1\002-saidaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\jhonn\Projects\Curso-CSharp\002-saidaDeDados\002-saidaDeDados\obj\Debug\netcoreapp3.1\002-saidaDeDados.dll
+C:\Users\jhonn\Projects\Curso-CSharp\002-saidaDeDados\002-saidaDeDados\obj\Debug\netcoreapp3.1\002-saidaDeDados.pdb
+C:\Users\jhonn\Projects\Curso-CSharp\002-saidaDeDados\002-saidaDeDados\obj\Debug\netcoreapp3.1\002-saidaDeDados.genruntimeconfig.cache
