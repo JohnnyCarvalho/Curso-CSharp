@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jhonn\\Projects\\Curso-CSharp\\004-operadores_de_atribuicao\\004-operadores_de_atribuicao\\004-operadores_de_atribuicao.csproj",
+      "projectUniqueName": "C:\\Users\\jhonn\\Projects\\Curso-CSharp\\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\\004-operadores_de_atribuicao\\004-operadores_de_atribuicao\\004-operadores_de_atribuicao.csproj",
       "projectName": "004-operadores_de_atribuicao",
-      "projectPath": "C:\\Users\\jhonn\\Projects\\Curso-CSharp\\004-operadores_de_atribuicao\\004-operadores_de_atribuicao\\004-operadores_de_atribuicao.csproj",
+      "projectPath": "C:\\Users\\jhonn\\Projects\\Curso-CSharp\\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\\004-operadores_de_atribuicao\\004-operadores_de_atribuicao\\004-operadores_de_atribuicao.csproj",
       "packagesPath": "C:\\Users\\jhonn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jhonn\\Projects\\Curso-CSharp\\004-operadores_de_atribuicao\\004-operadores_de_atribuicao\\obj\\",
+      "outputPath": "C:\\Users\\jhonn\\Projects\\Curso-CSharp\\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\\004-operadores_de_atribuicao\\004-operadores_de_atribuicao\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
