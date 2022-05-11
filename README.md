@@ -21,69 +21,69 @@
 </p>
 
 <p>
-    <img align="center" height="20" width="20" src="./img/ok.png"> - Recapitulação de lógica de programação em C#.
+    <img align="center" height="20" width="20" src="./img/ZZ5H.gif"> - Recapitulação de lógica de programação em C#.
 </p>
 
 <p>
-    <img align="center" height="20" width="20" src="./img/ok.png"> - Classes, atributos, métodos e membros estáticos.
+    <img align="center" height="20" width="20" src="./img/ZZ5H.gif"> - Classes, atributos, métodos e membros estáticos.
 </p>
 
 <p>
-    <img align="center" height="20" width="20" src="./img/ok.png"> - Construtores, palavra this, sobrecarga e enapsulamento.
+    <img align="center" height="20" width="20" src="./img/ZZ5H.gif"> - Construtores, palavra this, sobrecarga e enapsulamento.
 </p>
 
 <p>
-    <img align="center" height="20" width="20" src="./img/ok.png"> - Comportamento de memória, arrays e listas.
+    <img align="center" height="20" width="20" src="./img/ZZ5H.gif"> - Comportamento de memória, arrays e listas.
 </p>
 
 <p>
-    <img align="center" height="20" width="20" src="./img/ok.png"> - Tópicos especiais em C# parte 1 (funcões interessantes dentre outros)
+    <img align="center" height="20" width="20" src="./img/ZZ5H.gif"> - Tópicos especiais em C# parte 1 (funcões interessantes dentre outros)
 </p>
 
 <p>
-    <img align="center" height="20" width="20" src="./img/ok.png"> - Nivelamento Git e GitHub.
+    <img align="center" height="20" width="20" src="./img/ZZ5H.gif"> - Nivelamento Git e GitHub.
 </p>
 
 <p>
-    <img align="center" height="20" width="20" src="./img/ok.png"> - Enumerações e composição.
+    <img align="center" height="20" width="20" src="./img/ZZ5H.gif"> - Enumerações e composição.
 </p>
 
 <p>
-    <img align="center" height="20" width="20" src="./img/ok.png"> - Herança e polimorfismo.
+    <img align="center" height="20" width="20" src="./img/ZZ5H.gif"> - Herança e polimorfismo.
 </p>
 
 <p>
-    <img align="center" height="20" width="20" src="./img/ok.png"> - Tratamento e excessões.
+    <img align="center" height="20" width="20" src="./img/ZZ5H.gif"> - Tratamento e excessões.
 </p>
 
 <p>
-    <img align="center" height="20" width="20" src="./img/ok.png"> - Projeto 1: sistema de jogo de xadrez.
+    <img align="center" height="20" width="20" src="./img/ZZ5H.gif"> - Projeto 1: sistema de jogo de xadrez.
 </p>
 
 <p>
-    <img align="center" height="20" width="20" src="./img/ok.png"> - Trabalhando com arquivos.
+    <img align="center" height="20" width="20" src="./img/ZZ5H.gif"> - Trabalhando com arquivos.
 </p>
 
 <p>
-    <img align="center" height="20" width="20" src="./img/ok.png"> - Interfaces.
+    <img align="center" height="20" width="20" src="./img/ZZ5H.gif"> - Interfaces.
 </p>
 
 <p>
-    <img align="center" height="20" width="20" src="./img/ok.png"> - Generics, Set, Dictionary.
+    <img align="center" height="20" width="20" src="./img/ZZ5H.gif"> - Generics, Set, Dictionary.
 </p>
 
 <p>
-    <img align="center" height="20" width="20" src="./img/ok.png"> - Tópicos especiais em C# parte 2 (Extension methods).
+    <img align="center" height="20" width="20" src="./img/ZZ5H.gif"> - Tópicos especiais em C# parte 2 (Extension methods).
 </p>
 
 <p>
-    <img align="center" height="20" width="20" src="./img/ok.png"> - Expressões lambda, delegates, LINQ.
+    <img align="center" height="20" width="20" src="./img/ZZ5H.gif"> - Expressões lambda, delegates, LINQ.
 </p>
 
 <p>
-    <img align="center" height="20" width="20" src="./img/ok.png"> - Projeto 2: sistema WEB com ASP .NET Core MVC e Entity Framework.
+    <img align="center" height="20" width="20" src="./img/ZZ5H.gif"> - Projeto 2: sistema WEB com ASP .NET Core MVC e Entity Framework.
 </p>
 
 <h1 align="center">
-    Fim do Curso.
+    Fim do 
 </h1>
