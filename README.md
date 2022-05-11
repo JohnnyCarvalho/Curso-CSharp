@@ -15,3 +15,7 @@
 <h2>
   Etapas do curso e status das mesmas:
 </h2>
+
+<p>
+    <img align="center" height="20" width="20" src="./img/ok.png"> - Criar projeto node
+</p>
