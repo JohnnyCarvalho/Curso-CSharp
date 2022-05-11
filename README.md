@@ -15,10 +15,10 @@
 <h2>
   Etapas do curso e status das mesmas:
 </h2>
-<p>
-<img align="center" height="20" width="20" src="./img/ok.png"> - Concluído.
+<h4>
+<img align="center" height="20" width="20" src="./img/ok.png"> - Concluído. <br>
 <img align="center" height="20" width="20" src="./img/ZZ5H.gif"> - Em andamento.
-</p>
+</h4>
 
 <p>
     <img align="center" height="20" width="20" src="./img/ok.png"> - Introdução ao C# e .Net Core.
