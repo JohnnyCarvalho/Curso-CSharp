@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jhonn\\Projects\\Curso-CSharp\\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\\002-saidaDeDados\\002-saidaDeDados\\002-saidaDeDados.csproj",
-      "projectName": "002-saidaDeDados",
-      "projectPath": "C:\\Users\\jhonn\\Projects\\Curso-CSharp\\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\\002-saidaDeDados\\002-saidaDeDados\\002-saidaDeDados.csproj",
+      "projectUniqueName": "C:\\Users\\jhonn\\Projects\\Curso-CSharp\\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\\006-operadores_arotmeticos\\006-operadores_arotmeticos\\006-operadores_arotmeticos.csproj",
+      "projectName": "006-operadores_arotmeticos",
+      "projectPath": "C:\\Users\\jhonn\\Projects\\Curso-CSharp\\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\\006-operadores_arotmeticos\\006-operadores_arotmeticos\\006-operadores_arotmeticos.csproj",
       "packagesPath": "C:\\Users\\jhonn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jhonn\\Projects\\Curso-CSharp\\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\\002-saidaDeDados\\002-saidaDeDados\\obj\\",
+      "outputPath": "C:\\Users\\jhonn\\Projects\\Curso-CSharp\\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\\006-operadores_arotmeticos\\006-operadores_arotmeticos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

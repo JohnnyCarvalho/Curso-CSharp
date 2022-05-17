@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jhonn\\Projects\\Curso-CSharp\\002-saidaDeDados\\002-saidaDeDados\\002-saidaDeDados.csproj": {}
+    "C:\\Users\\jhonn\\Projects\\Curso-CSharp\\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\\002-saidaDeDados\\002-saidaDeDados\\002-saidaDeDados.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jhonn\\Projects\\Curso-CSharp\\002-saidaDeDados\\002-saidaDeDados\\002-saidaDeDados.csproj": {
+    "C:\\Users\\jhonn\\Projects\\Curso-CSharp\\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\\002-saidaDeDados\\002-saidaDeDados\\002-saidaDeDados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jhonn\\Projects\\Curso-CSharp\\002-saidaDeDados\\002-saidaDeDados\\002-saidaDeDados.csproj",
+        "projectUniqueName": "C:\\Users\\jhonn\\Projects\\Curso-CSharp\\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\\002-saidaDeDados\\002-saidaDeDados\\002-saidaDeDados.csproj",
         "projectName": "002-saidaDeDados",
-        "projectPath": "C:\\Users\\jhonn\\Projects\\Curso-CSharp\\002-saidaDeDados\\002-saidaDeDados\\002-saidaDeDados.csproj",
+        "projectPath": "C:\\Users\\jhonn\\Projects\\Curso-CSharp\\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\\002-saidaDeDados\\002-saidaDeDados\\002-saidaDeDados.csproj",
         "packagesPath": "C:\\Users\\jhonn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jhonn\\Projects\\Curso-CSharp\\002-saidaDeDados\\002-saidaDeDados\\obj\\",
+        "outputPath": "C:\\Users\\jhonn\\Projects\\Curso-CSharp\\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\\002-saidaDeDados\\002-saidaDeDados\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

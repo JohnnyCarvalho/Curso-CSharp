@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "006-operadores_arotmeticos/1.0.0": {
+        "runtime": {
+          "006-operadores_arotmeticos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "006-operadores_arotmeticos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
