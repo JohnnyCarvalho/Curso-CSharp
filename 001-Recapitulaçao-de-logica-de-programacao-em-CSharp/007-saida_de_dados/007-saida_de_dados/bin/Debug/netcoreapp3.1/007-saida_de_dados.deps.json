@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "007-saida_de_dados/1.0.0": {
+        "runtime": {
+          "007-saida_de_dados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "007-saida_de_dados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

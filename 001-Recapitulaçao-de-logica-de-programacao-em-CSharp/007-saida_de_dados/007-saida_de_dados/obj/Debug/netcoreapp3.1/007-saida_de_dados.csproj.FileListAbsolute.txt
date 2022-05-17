@@ -1,0 +1,14 @@
+C:\Users\jhonn\Projects\Curso-CSharp\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\007-saida_de_dados\007-saida_de_dados\bin\Debug\netcoreapp3.1\007-saida_de_dados.exe
+C:\Users\jhonn\Projects\Curso-CSharp\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\007-saida_de_dados\007-saida_de_dados\bin\Debug\netcoreapp3.1\007-saida_de_dados.deps.json
+C:\Users\jhonn\Projects\Curso-CSharp\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\007-saida_de_dados\007-saida_de_dados\bin\Debug\netcoreapp3.1\007-saida_de_dados.runtimeconfig.json
+C:\Users\jhonn\Projects\Curso-CSharp\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\007-saida_de_dados\007-saida_de_dados\bin\Debug\netcoreapp3.1\007-saida_de_dados.runtimeconfig.dev.json
+C:\Users\jhonn\Projects\Curso-CSharp\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\007-saida_de_dados\007-saida_de_dados\bin\Debug\netcoreapp3.1\007-saida_de_dados.dll
+C:\Users\jhonn\Projects\Curso-CSharp\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\007-saida_de_dados\007-saida_de_dados\bin\Debug\netcoreapp3.1\007-saida_de_dados.pdb
+C:\Users\jhonn\Projects\Curso-CSharp\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\007-saida_de_dados\007-saida_de_dados\obj\Debug\netcoreapp3.1\007-saida_de_dados.csproj.AssemblyReference.cache
+C:\Users\jhonn\Projects\Curso-CSharp\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\007-saida_de_dados\007-saida_de_dados\obj\Debug\netcoreapp3.1\007-saida_de_dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhonn\Projects\Curso-CSharp\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\007-saida_de_dados\007-saida_de_dados\obj\Debug\netcoreapp3.1\007-saida_de_dados.AssemblyInfoInputs.cache
+C:\Users\jhonn\Projects\Curso-CSharp\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\007-saida_de_dados\007-saida_de_dados\obj\Debug\netcoreapp3.1\007-saida_de_dados.AssemblyInfo.cs
+C:\Users\jhonn\Projects\Curso-CSharp\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\007-saida_de_dados\007-saida_de_dados\obj\Debug\netcoreapp3.1\007-saida_de_dados.csproj.CoreCompileInputs.cache
+C:\Users\jhonn\Projects\Curso-CSharp\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\007-saida_de_dados\007-saida_de_dados\obj\Debug\netcoreapp3.1\007-saida_de_dados.dll
+C:\Users\jhonn\Projects\Curso-CSharp\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\007-saida_de_dados\007-saida_de_dados\obj\Debug\netcoreapp3.1\007-saida_de_dados.pdb
+C:\Users\jhonn\Projects\Curso-CSharp\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\007-saida_de_dados\007-saida_de_dados\obj\Debug\netcoreapp3.1\007-saida_de_dados.genruntimeconfig.cache
