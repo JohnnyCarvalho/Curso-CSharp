@@ -6,7 +6,8 @@ namespace _008._1_exercicio_de_fixacao
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //exercício de fixação
+
         }
     }
 }
