@@ -1,0 +1,14 @@
+C:\Users\jhonn\Projects\Curso-CSharp\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\000-exercicios\001-estrutura_sequencial\004-ex\004-ex\bin\Debug\netcoreapp3.1\004-ex.exe
+C:\Users\jhonn\Projects\Curso-CSharp\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\000-exercicios\001-estrutura_sequencial\004-ex\004-ex\bin\Debug\netcoreapp3.1\004-ex.deps.json
+C:\Users\jhonn\Projects\Curso-CSharp\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\000-exercicios\001-estrutura_sequencial\004-ex\004-ex\bin\Debug\netcoreapp3.1\004-ex.runtimeconfig.json
+C:\Users\jhonn\Projects\Curso-CSharp\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\000-exercicios\001-estrutura_sequencial\004-ex\004-ex\bin\Debug\netcoreapp3.1\004-ex.runtimeconfig.dev.json
+C:\Users\jhonn\Projects\Curso-CSharp\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\000-exercicios\001-estrutura_sequencial\004-ex\004-ex\bin\Debug\netcoreapp3.1\004-ex.dll
+C:\Users\jhonn\Projects\Curso-CSharp\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\000-exercicios\001-estrutura_sequencial\004-ex\004-ex\bin\Debug\netcoreapp3.1\004-ex.pdb
+C:\Users\jhonn\Projects\Curso-CSharp\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\000-exercicios\001-estrutura_sequencial\004-ex\004-ex\obj\Debug\netcoreapp3.1\004-ex.csproj.AssemblyReference.cache
+C:\Users\jhonn\Projects\Curso-CSharp\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\000-exercicios\001-estrutura_sequencial\004-ex\004-ex\obj\Debug\netcoreapp3.1\004-ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhonn\Projects\Curso-CSharp\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\000-exercicios\001-estrutura_sequencial\004-ex\004-ex\obj\Debug\netcoreapp3.1\004-ex.AssemblyInfoInputs.cache
+C:\Users\jhonn\Projects\Curso-CSharp\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\000-exercicios\001-estrutura_sequencial\004-ex\004-ex\obj\Debug\netcoreapp3.1\004-ex.AssemblyInfo.cs
+C:\Users\jhonn\Projects\Curso-CSharp\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\000-exercicios\001-estrutura_sequencial\004-ex\004-ex\obj\Debug\netcoreapp3.1\004-ex.csproj.CoreCompileInputs.cache
+C:\Users\jhonn\Projects\Curso-CSharp\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\000-exercicios\001-estrutura_sequencial\004-ex\004-ex\obj\Debug\netcoreapp3.1\004-ex.dll
+C:\Users\jhonn\Projects\Curso-CSharp\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\000-exercicios\001-estrutura_sequencial\004-ex\004-ex\obj\Debug\netcoreapp3.1\004-ex.pdb
+C:\Users\jhonn\Projects\Curso-CSharp\001-Recapitulaçao-de-logica-de-programacao-em-CSharp\000-exercicios\001-estrutura_sequencial\004-ex\004-ex\obj\Debug\netcoreapp3.1\004-ex.genruntimeconfig.cache

@@ -29,7 +29,24 @@ namespace _004_ex
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("*** Digite os dados dos funcionários abaixo ***");
+
+            Console.Write("Digite o número do funcionário: ");
+            int number = int.Parse(Console.ReadLine());
+
+            Console.Write("Digite a quantidade de horas trabalhadas: ");
+            Double hoursWork = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            Console.Write("Digite quantos você recebe por hora trabalhado: ");
+            Double pricePerHour = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            double salary = hoursWork * pricePerHour;
+
+            // DATA OUTPUT
+
+            Console.WriteLine($"Number = {number}");
+            Console.WriteLine("Salary = "+salary.ToString("F2", CultureInfo.InvariantCulture));
+
         }
     }
 }
