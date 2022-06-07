@@ -14,11 +14,11 @@ Entrada:              |          Saída:
 100                   |          SALARY = U$ 550.00
 5.50                  |  
 Entrada:              |          Saída:
-1                     |          SOMA = 1
+1                     |          NUMBER = 1
 200                   |          SALARY = U$ 4100.00
 20.5                  |  
 Entrada:              |          Saída:
-6                     |          SOMA = 6
+6                     |          NUMBER = 6
 145                   |          SALARY = U$ 2254.75
 15.55                 |
  */
@@ -45,7 +45,7 @@ namespace _004_ex
             // DATA OUTPUT
 
             Console.WriteLine($"Number = {number}");
-            Console.WriteLine("Salary = "+salary.ToString("F2", CultureInfo.InvariantCulture));
+            Console.WriteLine("Salary = U$ "+salary.ToString("F2", CultureInfo.InvariantCulture));
 
         }
     }
